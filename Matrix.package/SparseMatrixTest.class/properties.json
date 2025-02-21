@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FullMatrixTest",
+	"category" : "Matrix-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SparseMatrixTest",
+	"type" : "normal"
+}

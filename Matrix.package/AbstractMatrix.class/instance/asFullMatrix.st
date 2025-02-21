@@ -1,0 +1,3 @@
+converting
+asFullMatrix
+	self shouldNotImplement 

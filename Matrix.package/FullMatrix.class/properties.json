@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractMatrix",
+	"category" : "Matrix-Production",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"representation"
+	],
+	"name" : "FullMatrix",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Matrix-Production",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rows",
+		"cols"
+	],
+	"name" : "AbstractMatrix",
+	"type" : "normal"
+}
